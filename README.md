@@ -21,9 +21,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
-<br/>
-
-<h3> My Handles <h3>
+<h3> 🚲 My Handles <h3>
   <a href="https://www.hackerrank.com/venuyeggadi">
      <img align="left" alt="Venu's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
