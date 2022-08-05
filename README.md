@@ -29,14 +29,14 @@
   
   
 <h3>My Profiles <h3>
-  <a href="https://www.hackerrank.com/venuyeggadi" target="_blank">
+  <a href="https://www.hackerrank.com/venuyeggadi">
      <img width="50px" alt="Venu's Hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png" />
   </a>
 
 <br/>
 
 <h3> Stats <h3>
-<a href="https://github.com/venuyeggadi" target="_blank">
+<a href="https://github.com/venuyeggadi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venuyeggadi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuyeggadi&theme=buefy&layout=compact" />
 </a>
@@ -46,5 +46,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/venuyeggadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Venu%20Yeggadi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/venuyeggadi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Venu%20Yeggadi-blue?style=flat-square&logo=linkedin"></a>
 </p>
